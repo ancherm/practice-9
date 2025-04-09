@@ -10,7 +10,7 @@ public class MainController {
 
     @GetMapping("hello")
     public String getHello() {
-        return "Hello JUnit2";
+        return "Hello JUnit333";
     }
 
 }
